@@ -2,6 +2,6 @@ spring:
   # datasource      
   datasource:
     driverClassName: org.h2.Driver
-    password: 'juan'
+    password: ''
     url: jdbc:h2:mem:alura-forum
     username: sa
